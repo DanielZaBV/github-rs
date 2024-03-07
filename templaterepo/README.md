@@ -1,4 +1,4 @@
-# Sumador de Números en Archivo
+# Sumador de Números 
 
 Este es un script de Python diseñado para leer números (enteros o decimales) de un archivo y sumarlos.
 
