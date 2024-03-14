@@ -1,8 +1,8 @@
-# [Nombre del Programa]
+# [Nombre del Programa] hecho por Daniel el travieso 🤐🤐🤐🤐🤐
 
 Este es un script de Python diseñado para ...
 
-## Uso
+## Uso:
 
 El script puede ejecutarse como:
 
@@ -12,36 +12,37 @@ python program_name.py -parameter value
 
 donde `[value]` es el nombre del ...
 
-## Salida
+## Salida:
 
-El script ...
 
-## Control de errores
+
+## Control de errores:
 
 El programa puede mandar una serie de mensajes de errores, como son:
 
 - 
 
-## Pruebas
+## Pruebas😝😝
 
 El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas con:
 
 ```
+
 ```
 
-## Datos
-
+## Datos:
+😝😝
 El script está diseñado para operar en a...
 
-## Metadatos y documentación
+## Metadatos y documentación:
 
 Este README ofrece información de uso básico. Para obtener información más detallada sobre el diseño y la implementación del script, consulte [Enlace a la documentación]().
 
-## Código fuente
+## Código fuente:
 
 El código fuente está disponible en este repositorio. Se acoge con satisfacción cualquier contribución o sugerencia a través de solicitudes pull request.
 
-## Términos de uso
+## Términos de uso:
 
 Este script está disponible bajo la licencia [nombre de la licencia]. Consulte el archivo LICENSE para obtener más detalles.
 
